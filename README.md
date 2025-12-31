@@ -1,6 +1,6 @@
 ## Description
 
-This repository uses Modulus to study the conjugate heat transfer between the heat sink and the surrounding fluid. The temperature variations inside solid and fluid would be solved in a coupled manner with appropriate interface boundary conditions. In this tutorial, you will learn:
+This repository uses AI Modulus to simulate the heat transfer. The temperature variations inside solid and fluid would be solved in a coupled manner with appropriate interface boundary conditions. In this repository, it is discussed:
 
 1- How to generate a 3D geometry using the geometry module in AI-driven.
 

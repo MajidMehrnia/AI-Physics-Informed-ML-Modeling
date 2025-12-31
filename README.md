@@ -1,9 +1,3 @@
-# NVIDIA PhysicsNeMo
-
-<!-- markdownlint-disable -->
-
-📝 NVIDIA Modulus has been renamed to NVIDIA PhysicsNeMo
-
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![GitHub](https://img.shields.io/github/license/NVIDIA/physicsnemo)](https://github.com/NVIDIA/physicsnemo/blob/master/LICENSE.txt)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -17,7 +11,16 @@
 | [**Contributing Guidelines**](#contributing-to-physicsnemo)
 | [**Dev blog**](https://nvidia.github.io/physicsnemo/blog/)
 
-## What is PhysicsNeMo?
+## Description
+
+This tutorial uses Modulus to study the conjugate heat transfer between the heat sink and the surrounding fluid. The temperature variations inside solid and fluid would be solved in a coupled manner with appropriate interface boundary conditions. In this tutorial, you will learn:
+
+1- How to generate a 3D geometry using the geometry module in AI-driven.
+
+2- How to set up a heat transfer problem using the interface boundary conditions.
+
+3- How to use the Multi-Phase training approach for one way coupled problems.
+
 
 NVIDIA PhysicsNeMo is an open-source deep-learning framework for building, training,
 fine-tuning, and inferring Physics AI models using state-of-the-art SciML methods for

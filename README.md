@@ -38,7 +38,17 @@ This approach allows high-fidelity simulation of the TXV without requiring full 
 
 5- Integration: Trained models can be integrated with larger EV thermal management simulations to assess heat pump cycle performance efficiently.
 
+## Getting Started
 
+To run the simulations and train the AI/ML models:
+
+1- Clone the repository.
+
+2- Install dependencies listed in requirements.
+
+3- Follow the step-by-step workflow scripts in the scripts.
+
+4- Check the results for post-processed temperature and performance data.
 
 The NVIDIA open-source Physics-ML framework is employed in this work. NVIDIA PhysicsNeMo is an open-source deep-learning framework for building, training, fine-tuning, and inferring Physics AI models using state-of-the-art SciML methods for AI4Science and engineering.
 

@@ -33,7 +33,7 @@ The models show strong agreement on key thermal predictions, as both the CFD and
 
 The TXV regulates refrigerant flow in the heat pump cycle of an electric vehicle. Accurate modeling is critical for evaluating the system’s thermal performance. In this project:
 
-- The TXV geometry and flow domain are defined based on standard automotive designs.
+- The TXV geometry and flow domain are defined based on AC and Refrigeration.
 
 - Physics-informed neural networks are trained to predict temperatures and enthalpy in the fluid domain.
 

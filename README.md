@@ -23,13 +23,13 @@ The figure below illustrates the geometry of the TXV
 
 ## Test Case: Thermostatic Expansion Valve (TXV)
 
-- The TXV regulates refrigerant flow in the heat pump cycle of an electric vehicle. Accurate modeling is critical for evaluating the system’s thermal performance. In this project:
+The TXV regulates refrigerant flow in the heat pump cycle of an electric vehicle. Accurate modeling is critical for evaluating the system’s thermal performance. In this project:
 
 - The TXV geometry and flow domain are defined based on standard automotive designs.
 
 - Physics-informed neural networks are trained to predict temperatures and enthalpy in the fluid domain.
 
-- Validation datasets are generated to compare AI/ML predictions against conventional simulation results.
+- Validation datasets are generated to compare AI/ML predictions against conventional simulation results (ANSYS FLUENT).
 
 This approach allows high-fidelity simulation of the TXV without requiring full computational fluid dynamics (CFD) runs for every operating point. 
 

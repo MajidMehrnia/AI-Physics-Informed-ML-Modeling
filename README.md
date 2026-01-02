@@ -10,6 +10,9 @@ The figure below illustrates the geometry of the TXV
 ![txv3](https://github.com/user-attachments/assets/087ddbbf-d97f-4fc8-95a1-7708da448bd4)
 
 
+![T](https://github.com/user-attachments/assets/e2c7ecf8-cbf7-4332-8896-0aa68323479d)
+
+
 
 ## Benefits of the Approach
 

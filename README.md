@@ -5,7 +5,7 @@ This repository demonstrates a Physics-Informed AI/ML framework for thermodynami
 This Physics-Informed AI/ML approach is extensible to modeling and optimization of other electric vehicle components, such as battery thermal management systems, or HVAC subsystems. Unlike traditional methods that provide only scalar outputs (e.g., COP), this framework predicts full-field variables such as temperature, enthalpy, and flow distribution across the component. This allows detailed analysis and design optimization for complex thermal systems in EVs.
 
 As a test case, a Thermostatic Expansion Valve (TXV) is modeled to study heat transfer and fluid dynamics within the refrigeration cycle. Neural networks are trained to predict temperature fields in the fluid domain, enabling rapid evaluation of TXV performance under different operating conditions. Validation datasets are incorporated to ensure accuracy and reliability of the predictions.
-The figure below illustrates the geometry of the TXV
+The figure below illustrates the geometry of the TXV.
 
 ![txv3](https://github.com/user-attachments/assets/087ddbbf-d97f-4fc8-95a1-7708da448bd4)
 
